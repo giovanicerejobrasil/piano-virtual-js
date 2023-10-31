@@ -120,3 +120,7 @@ header .column span {
   text-align: center;
   font-size: 1.13rem;
 }
+
+.hide span {
+  display: none;
+}
